@@ -3,3 +3,5 @@
 ################################################################################
 
 /SampleApplication/bin/roslyn
+/SampleApplication/bin
+/SampleApplication/obj/Debug
